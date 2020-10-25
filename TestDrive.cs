@@ -9,7 +9,8 @@ namespace Liang_Ch07
         static void Main(string[] args)
         {
             //E30_FourConsecutives.Execute();
-            E31_MergeTwoSorted.Execute();
+            //E31_MergeTwoSorted.Execute();
+            E32_QuickSort.Exectue();
         }
     }
 }
