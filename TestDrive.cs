@@ -10,7 +10,9 @@ namespace Liang_Ch07
         {
             //E30_FourConsecutives.Execute();
             //E31_MergeTwoSorted.Execute();
-            E32_QuickSort.Exectue();
+            //E32_QuickSort.Exectue();
+            //E33_MonthName.Execute();
+            E34_SortString.Execute();
         }
     }
 }
